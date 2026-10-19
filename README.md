@@ -7,7 +7,7 @@
   >
 </p>
 
-# Hi, I'm Mihlali Mazibuko — ctrlALTmishla
+# Hey there 👋, I'm Mihlali Mazibuko — aka ctrlALTmishla
 
 *IT Support & Network Administration | Aspiring Data Analyst | Tech Enthusiast*
 
