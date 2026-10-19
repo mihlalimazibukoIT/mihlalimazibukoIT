@@ -205,4 +205,4 @@ I enjoy looking past the single ticket or single chart and seeing the whole syst
 ## Let's Connect
 
 - *GitHub:* [@mihlalimazibukoIT](https://github.com/mihlalimazibukoIT)
-- *Portfolio:* [mihlali-mazibuko-portfolio.vercel.app](https://mihlali-mazibuko-portfolio.vercel.app)
+- *Portfolio:* https://mihlalim101.netlify.app/
