@@ -159,6 +159,6 @@ My personal portfolio site, deployed on Vercel, collecting the projects above an
 ## Let's Connect
 
 - **GitHub:** [@mihlalimazibukoIT](https://github.com/mihlalimazibukoIT)
-- **Portfolio:** [mihlali-mazibuko-portfolio.vercel.app](https://mihlali-mazibuko-portfolio.vercel.app)
+- **Portfolio:** [mihlali-mazibuko-portfolio.vercel.app] https://mihlalim101.netlify.app/
 <!-- TODO: add your LinkedIn profile link, e.g. -
 
